@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **B. Tech - Computer Science Engineering**
 
-- ⚡ Fun fact [About 99.9% of human DNA is the same](About 99.9% of human DNA is the same)
+- ⚡ Fun fact [About 99.9% of human DNA is the same]
 
 - 🗣 I'm always up for tech & creativity talk **aasavchauhan@gmail.com**
 
