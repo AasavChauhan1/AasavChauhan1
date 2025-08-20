@@ -1,7 +1,10 @@
 <!-- Header -->
-<h1 align="center">Aasav Chauhan</h1>
+<h1 align="center">Hi 👋, I'm Aasav Chauhan</h1>
+<h3 align="center">A passionate Student, Learner & Developer from India</h3>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Cloud+%26+Full‑Stack+Developer;Designer+%7C+Automation+%7C+Dev+Tools+Enthusiast" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Student+%26+Lifelong+Learner;Cloud+%26+Full-Stack+Developer;Design-first+Thinker;Automation+%7C+Dev+Tools+Enthusiast" alt="Typing intro" />
 </p>
 
 <!-- Socials -->
@@ -9,16 +12,18 @@
   <a href="mailto:aasavchauhan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/aasav-chauhan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/aasav_chauhan"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
 </p>
 
-<!-- Brief -->
-<p align="center">
-  I build pragmatic web/mobile experiences and cloud‑backed systems with a design‑first mindset.
-</p>
+<!-- About Me -->
+### 🚀 About Me
+- 🌱 I’m currently learning **Next.js, Cloud, and Automation Tools**  
+- 💬 Ask me about **Web Development, Cloud, and Dev Tools**  
+- ⚡ Fun fact: I love blending **design and development** to make things beautiful & functional.
 
 ---
 
-### Core Stack
+### 🛠️ Core Stack
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" alt="Python"/>
@@ -33,14 +38,25 @@
 
 ---
 
-### GitHub Snapshot
+### 📊 GitHub Snapshot
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AasavChauhan1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasavChauhan1&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AasavChauhan1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasavChauhan1&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=AasavChauhan1&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=AasavChauhan1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AasavChauhan1&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🌐 Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AasavChauhan1&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -49,4 +65,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
-<!-- Minimal. Professional. Dynamic via SVG (no JS). -->
+<!-- Famous elements from top profiles: typing SVG, trophies, streaks, stats, profile views -->
