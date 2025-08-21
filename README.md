@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Snapshot
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AasavChauhan1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasavChauhan1&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AasavChauhan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasavChauhan&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 ### 🌐 Visitors Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AasavChauhan1&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AasavChauhan&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
